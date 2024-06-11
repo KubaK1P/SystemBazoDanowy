@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.175,C:\Users\kubak\Downloads\filmy\filmy\Project1.cbproj=C:\Users\kubak\Downloads\filmy\filmy\SystemBazoDanowy.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,D:\Users\2p_1\Desktop\2p_geodecki_zadanie\Unit1.cpp=D:\Users\2p_1\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,C:\Users\kubak\Downloads\filmy\filmy\Project1PCH1.h=C:\Users\kubak\Downloads\filmy\filmy\SystemBazoDanowyPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.493,=D:\Users\2p_1\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.346,D:\Users\2p_1\Desktop\2p_geodecki_zadanie\Film.h=D:\Users\2p_1\Desktop\2p_geodecki_zadanie\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,D:\Users\2p_1\Desktop\2p_geodecki_zadanie\Unit1.dfm=D:\Users\2p_1\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.319,D:\Users\2p_1\Desktop\2p_geodecki_zadanie\Project1.cbproj=D:\Users\2p_1\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,D:\Users\2p_1\Desktop\2p_geodecki_zadanie\Unit1.h=D:\Users\2p_1\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.790,=D:\Users\2p_1\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.346,D:\Users\2p_1\Desktop\2p_geodecki_zadanie\Film.cpp=D:\Users\2p_1\Desktop\2p_geodecki_zadanie\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.960,D:\Users\2p_1\Desktop\2p_geodecki_zadanie\Project1PCH1.h=D:\Users\2p_1\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.097,C:\Users\kubak\Downloads\filmy\filmy\SystemBazoDanowy.cbproj=C:\Users\kubak\Downloads\filmy\filmy\SystemBazoDanowy.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.461,=D:\Users\2p_1\Desktop\2p_geodecki_zadanie\Unit2.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Film.cpp"/>
+    <File Path="Film.cpp"/>
+    <File Path="Film.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="SystemBazoDanowyPCH1.h"/>
+    <File Path="SystemBazoDanowy.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>
